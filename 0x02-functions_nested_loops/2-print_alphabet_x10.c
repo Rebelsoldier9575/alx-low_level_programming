@@ -23,4 +23,5 @@ void print_alphabet_x10(void)
 		if (i != 9)
 			_putchar('\n');
 	}
+	_putchar('\n');
 }
